@@ -1,5 +1,11 @@
-ESP-IDF template app
+ESP-IDF Game of Life
 ====================
+
+Game of Life for the ESP32.
+
+
+About the Template
+==================
 
 This is a template application to be used with `Espressif IoT Development Framework`_ (ESP-IDF). 
 
